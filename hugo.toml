@@ -9,6 +9,7 @@ buildDrafts = true
 
 [params]
   # home-info mode
+  comments = true
   [params.homeInfoParams]
     Title = "파우와우의 블로그"
     Content = "나의 로그"
