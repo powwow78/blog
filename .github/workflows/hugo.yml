@@ -38,8 +38,7 @@ jobs:
 
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          submodules: true      # ✅ 여기에 추가됨
+        with:     # ✅ 여기에 추가됨
           fetch-depth: 0
 
       - name: Setup Pages
