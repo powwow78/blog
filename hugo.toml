@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "파우와우의 블로그"
 theme = "PaperMod"
 buildDrafts = true
+relativeURLs = false      # 보통 false가 절대경로 생성
+canonifyURLs = true       # true면 .Permalink가 절대 URL 생성
 
 [pagination]
   pagerSize = 5
