@@ -6,8 +6,15 @@
     <description>Recent content in Posts on 파우와우의 블로그</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 20:16:20 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 19:15:58 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>진짜 뭐냐</title>
+      <link>http://localhost:1313/posts/%EC%A7%84%EC%A7%9C-%EB%AD%90%EB%83%90/</link>
+      <pubDate>Sat, 05 Jul 2025 19:15:58 +0900</pubDate>
+      <guid>http://localhost:1313/posts/%EC%A7%84%EC%A7%9C-%EB%AD%90%EB%83%90/</guid>
+      <description>&lt;p&gt;아니 진짜 친구한테 한 번만 리눅스 깔아보라고 하니까 아치를 쳐 깔고 앉았네. 시바 내가 우분투 써보라고 몇번을 그렇게 쳐 말했는데도 이새기는 쳐 듣지를 않아 나도 아치 쓰고 있긴 한데 나보고 gui가 없다고 지랄하면 어쩌라고 이 랄부 없는 새꺄&lt;/p&gt;</description>
+    </item>
     <item>
       <title>진짜 첫 글</title>
       <link>http://localhost:1313/posts/%EC%A7%84%EC%A7%9C-%EC%B2%AB-%EA%B8%80/</link>
