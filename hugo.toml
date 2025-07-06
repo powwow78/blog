@@ -13,12 +13,6 @@ canonifyURLs = true       # true면 .Permalink가 절대 URL 생성
   # home-info mode
   comments = true
 
-  [params.utterances]
-  repo = "powwow78/powwow78.github.io"
-  issueTerm = "pathname"
-  theme = "preferred-color-scheme"
-  label = "comment"
-
   [params.homeInfoParams]
     Title = "파우와우의 블로그"
     Content = "나의 로그"
