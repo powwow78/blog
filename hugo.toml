@@ -12,6 +12,14 @@ canonifyURLs = true       # true면 .Permalink가 절대 URL 생성
 [params]
   # home-info mode
   comments = true
+  ShowShareButtons = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowToc = true
+  TocOpen = false
 
   [params.homeInfoParams]
     Title = "파우와우의 블로그"
@@ -19,7 +27,7 @@ canonifyURLs = true       # true면 .Permalink가 절대 URL 생성
 
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/powwow78"
 
 [menu]
 
