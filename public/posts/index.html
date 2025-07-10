@@ -121,6 +121,23 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2 class="entry-hint-parent">i3 사용 후기
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>i3 사용 후기
+일단 제가 며칠 전부터 i3를 써보고 있는데, 일단 원래 쓰던 kde 보다는 확실히 가볍습니다. 그런 대신 기능이 적습니다. 앱 실행기도 없어서 원래는 모든 것을 터미널로 입력해서 실행해야 하지 만! 우리에게는 rofi가 있습니다. dmenu도 있긴 한데 rofi가 더 좋습니다. 아무튼 이제 아치라면
+sudo pacman -S rofi 로 깔아줍니다. 그 다음에 설정 파일을 약간 손봐야 하는데, 일단
+sudo nano ./config/i3/config 이렇게 해 주고 쭉 내려서 대충
+# start dmenu (a program launcher) # A more modern dmenu replacement is rofi: bindcode $mod&#43;40 exec &#34;rofi -modi drun,run -show drun&#34; 이런 부분을 찾아서 bindcode 어쩌고 저쩌고 “rofi -modi drun,run -show drun” 거기를 주석 해제 해주면 됩니다.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-07-10 20:14:22 +0900 KST'>July 10, 2025</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;109 words</footer>
+  <a class="entry-link" aria-label="post link to i3 사용 후기" href="http://localhost:1313/posts/i3-%EC%82%AC%EC%9A%A9-%ED%9B%84%EA%B8%B0/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2 class="entry-hint-parent">진짜 첫 글
     </h2>
   </header>

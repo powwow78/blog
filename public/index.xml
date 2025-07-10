@@ -6,8 +6,25 @@
     <description>Recent content on 파우와우의 블로그</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 20:16:20 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 20:14:22 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>i3 사용 후기</title>
+      <link>http://localhost:1313/posts/i3-%EC%82%AC%EC%9A%A9-%ED%9B%84%EA%B8%B0/</link>
+      <pubDate>Thu, 10 Jul 2025 20:14:22 +0900</pubDate>
+      <guid>http://localhost:1313/posts/i3-%EC%82%AC%EC%9A%A9-%ED%9B%84%EA%B8%B0/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;i3 사용 후기&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;일단 제가 며칠 전부터 i3를 써보고 있는데, 일단 원래 쓰던 kde 보다는 확실히 가볍습니다. 그런 대신 기능이 적습니다. 앱 실행기도 없어서 원래는 모든 것을 터미널로 입력해서 실행해야 하지 만! 우리에게는 rofi가 있습니다. dmenu도 있긴 한데 rofi가 더 좋습니다. 아무튼 이제 아치라면&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-arch&#34; data-lang=&#34;arch&#34;&gt;sudo pacman -S rofi
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;로 깔아줍니다. 그 다음에 설정 파일을 약간 손봐야 하는데, 일단&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-arch&#34; data-lang=&#34;arch&#34;&gt;sudo nano ./config/i3/config
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;이렇게 해 주고 쭉 내려서 대충&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-config&#34; data-lang=&#34;config&#34;&gt;# start dmenu (a program launcher)
+
+# A more modern dmenu replacement is rofi:
+bindcode $mod+40 exec &amp;#34;rofi -modi drun,run -show drun&amp;#34;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;이런 부분을 찾아서 bindcode 어쩌고 저쩌고 &amp;ldquo;rofi -modi drun,run -show drun&amp;rdquo; 거기를 주석 해제 해주면 됩니다.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>진짜 첫 글</title>
       <link>http://localhost:1313/posts/%EC%A7%84%EC%A7%9C-%EC%B2%AB-%EA%B8%80/</link>
