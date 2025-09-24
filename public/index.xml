@@ -4,10 +4,17 @@
     <title>파우와우의 블로그</title>
     <link>https://blog.powwow787.xyz/</link>
     <description>Recent content on 파우와우의 블로그</description>
-    <generator>Hugo -- 0.148.1</generator>
+    <generator>Hugo -- 0.150.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 17:38:55 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 20:02:43 +0900</lastBuildDate>
     <atom:link href="https://blog.powwow787.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>시험 이틀 전!</title>
+      <link>https://blog.powwow787.xyz/posts/wow123/</link>
+      <pubDate>Sun, 28 Sep 2025 20:02:43 +0900</pubDate>
+      <guid>https://blog.powwow787.xyz/posts/wow123/</guid>
+      <description>&lt;p&gt;이제 화요일이면 내 첫 번째 중간고사이자, 내 실력이 만천하에 까발려지는 날이다. 굉장히 긴장되지만 이제는 해야만 한다. 사회랑 과학은 끝내놨고, 이제 국어만 남았는데, 국어를 진짜 어제 2시간정도 봤는데도 어찌해야 할지 모르겠다. 그냥 뭐 해보는 수밖에&amp;hellip;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>리눅스를 쓰는 학생들을 위한 디스코드 서버 개장 소식</title>
       <link>https://blog.powwow787.xyz/posts/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EA%B0%9C%EC%9E%A5-%EC%86%8C%EC%8B%9D/</link>
@@ -16,7 +23,7 @@
       <description>&lt;p&gt;리눅스를 쓰는 학생들을 위한 디스코드 서버를 개장했습니다!&lt;/p&gt;
 &lt;p&gt;저는 언제나 생각했죠. &amp;ldquo;왜 학생들을 위한 커뮤니티는 따로 없는걸까?&amp;rdquo; 그래서 한 번 만들어 봤습니다. 여기서는 리눅스에 대한 이야기만 하는 게 아니라 다양한 잡담도 할 수 있습니다.&lt;/p&gt;
 &lt;p&gt;이 글을 본 당신이 서버에 참여하지 않는다면 우리의 디스코드 서버는 점점 위축됩니다. 그러니 우리와 함께하세요! &lt;strong&gt;우리와 함께 하시겠어요?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;디스코드 주소: &lt;a href=&#34;https://discord.comchannels&#34;&gt;https://discord.comchannels&lt;/a&gt;1397135306771402793/1397135306771402796&lt;/p&gt;</description>
+&lt;p&gt;디스코드 주소:https://discord.com/channels/1397135306771402793/1397135306771402796&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hyprland 커스텀 예시</title>
